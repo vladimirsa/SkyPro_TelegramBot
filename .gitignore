@@ -5,7 +5,7 @@ build/
 !**/src/test/**/build/
 mvnw
 mvnw.cmd
-target
+target/
 
 ### STS ###
 .apt_generated
